@@ -1,27 +1,16 @@
 {
   "files": {
-    "main.css": "/valentine_proposal/static/css/main.5610e746.css",
-    "main.js": "/valentine_proposal/static/js/main.d806b82f.js",
-    "static/media/loverCats.gif": "/valentine_proposal/static/media/loverCats.f0f33d3998189b97c720.gif",
-    "static/media/cat3.gif": "/valentine_proposal/static/media/cat3.3a119a4b7276078eca14.gif",
-    "static/media/rizz.gif": "/valentine_proposal/static/media/rizz.91fa0f36a8042220500a.gif",
-    "static/media/myShayla.gif": "/valentine_proposal/static/media/myShayla.47498d0af6ccfdf1540f.gif",
-    "static/media/chingis.png": "/valentine_proposal/static/media/chingis.24454d8618e2d61fe31e.png",
-    "static/media/cat2.gif": "/valentine_proposal/static/media/cat2.26cc801398586432aa05.gif",
-    "static/media/moomins.jpg": "/valentine_proposal/static/media/moomins.b486bf5b7a4a82ac8792.jpg",
-    "static/media/mijka.png": "/valentine_proposal/static/media/mijka.10c1450a9511dfe6452f.png",
-    "static/media/hand.png": "/valentine_proposal/static/media/hand.1769d3144c14bc7b37a3.png",
-    "static/media/gomb.png": "/valentine_proposal/static/media/gomb.69142ebfe8651fd406ab.png",
-    "static/media/bible.png": "/valentine_proposal/static/media/bible.d6ca1dfd2bff340d4417.png",
-    "static/media/roseCat.png": "/valentine_proposal/static/media/roseCat.d1033cbfd9a74eae1557.png",
-    "static/media/bg.jpg": "/valentine_proposal/static/media/bg.9324f01be09b81f64871.jpg",
+    "main.css": "/valentine_proposal/static/css/main.ce8c79cd.css",
+    "main.js": "/valentine_proposal/static/js/main.739ac188.js",
+    "static/js/453.64f3451c.chunk.js": "/valentine_proposal/static/js/453.64f3451c.chunk.js",
+    "static/media/logo.svg": "/valentine_proposal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/valentine_proposal/index.html",
-    "static/media/heart.svg": "/valentine_proposal/static/media/heart.501567450249fa33003249150ea947af.svg",
-    "main.5610e746.css.map": "/valentine_proposal/static/css/main.5610e746.css.map",
-    "main.d806b82f.js.map": "/valentine_proposal/static/js/main.d806b82f.js.map"
+    "main.ce8c79cd.css.map": "/valentine_proposal/static/css/main.ce8c79cd.css.map",
+    "main.739ac188.js.map": "/valentine_proposal/static/js/main.739ac188.js.map",
+    "453.64f3451c.chunk.js.map": "/valentine_proposal/static/js/453.64f3451c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5610e746.css",
-    "static/js/main.d806b82f.js"
+    "static/css/main.ce8c79cd.css",
+    "static/js/main.739ac188.js"
   ]
 }
